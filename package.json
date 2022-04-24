@@ -1,10 +1,10 @@
 {
   "name": "@shen.liao/nodejs-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "bin": {
     "nodejs-cli": "./index.js"
   },
   "main": "index.js",
-  "license": "ISC"
+  "license": "MIT"
 }
