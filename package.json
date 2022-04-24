@@ -6,6 +6,5 @@
     "nodejs-cli": "./index.js"
   },
   "main": "index.js",
-  "keywords": [],
   "license": "ISC"
 }
