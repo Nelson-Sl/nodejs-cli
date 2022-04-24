@@ -1,0 +1,11 @@
+{
+  "name": "@shen.liao/nodejs-cli",
+  "version": "1.0.0",
+  "description": "",
+  "bin": {
+    "nodejs-cli": "./index.js"
+  },
+  "main": "index.js",
+  "keywords": [],
+  "license": "ISC"
+}
